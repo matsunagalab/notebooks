@@ -1,2 +1,2 @@
 # notebooks
-Jupyter notebook using MDToolbox.jl
+MDToolbox.jl notebooks
